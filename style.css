@@ -1,0 +1,10 @@
+.bg-black {
+    background-color: black;
+}
+body{font-family: 'Fira Sans', sans-serif;}
+
+.contact-section {
+    background-image: url(./images/footer-bk.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
